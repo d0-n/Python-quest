@@ -36,9 +36,11 @@ Python-quest/
 │   ├── quest_22_personalized_scroll.py
 │   ├── quest_23_oracles_vision.py
 │   ├── quest_24_master_spell.py
-│   ├── quest_25_number_wizard/
+│   ├── quest_25_number_wizard.py
 │   ├── quest_26_simple_calculator.py
-│   └── quest_28_the_adventure_begins/
+│   ├── quest_28_the_adventure_begins.py
+│   ├── quest_29_code_breaker.py
+│   └── quest_30_reflective_scribe.py
 │
 └── README.md
 ```
